@@ -101,3 +101,7 @@ print(f"Predicted MSRP of the New Car: {predicted_price[0]}")
 ![Screenshot 2023-06-13 212445](https://github.com/Nagul71/Mini-Project/assets/118661118/fb7be0cf-59ec-4892-b706-235fb60f17ee)
 
 
+# RESULT:
+Thus,the Car Prediction Model Using Linear Regression Algorithm in Data Science is sucessfully Created.
+
+
